@@ -1,0 +1,8 @@
+# Claude-managed system skills (ติดมากับตัวโปรแกรม ไม่ต้อง sync)
+.system/
+
+# junk
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
